@@ -7,7 +7,7 @@
 
 ```javascript
 const shahriyer = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, PHP],
   architecture: ["Client-server pattern", "MVC", "microservices",],
   tools: {
