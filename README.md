@@ -26,11 +26,9 @@ const shahriyer = {
 
 ## 📊GitHub Stats :
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vcshahriyer&theme=merko&hide_border=true)
-
 <p asign = "left">
- <img style="margin-left: 20px" src = "https://github-readme-stats.vercel.app/api?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true" >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+ <img style="margin-left: 20px" src = "https://github-readme-stats.vercel.app/api?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="400" >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  width="400">
 </p>
 
 ---
