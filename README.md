@@ -19,18 +19,18 @@ const shahriyer = {
 
 ```
 
-# ⌨️Contributions
+## ⌨️Contributions
 
 ![GitHub Snake Light](https://github.com/vcshahriyer/vcshahriyer/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/vcshahriyer/vcshahriyer/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vcshahriyer&theme=merko&hide_border=true)
 
-<p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<p asign = "left">
  <img style="margin-left: 20px" src = "https://github-readme-stats.vercel.app/api?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true" >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
 ---
