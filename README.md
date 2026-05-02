@@ -24,11 +24,9 @@ const shahriyer = {
 ![GitHub Snake Light](https://github.com/vcshahriyer/vcshahriyer/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/vcshahriyer/vcshahriyer/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-## 📊GitHub Stats :
+## 📊 GitHub Stats
 
-<p asign = "left">
- <img style="margin-left: 20px" src = "https://github-readme-stats.vercel.app/api?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true" width="400" >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  width="400">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
