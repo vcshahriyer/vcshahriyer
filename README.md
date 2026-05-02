@@ -26,7 +26,7 @@ const shahriyer = {
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vcshahriyer&theme=merko&hide_border=true&include_all_commits=true&show_icons=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vcshahriyer&theme=merko&hide_border=true&layout=compact&cache_seconds=1800)
 
 ---
