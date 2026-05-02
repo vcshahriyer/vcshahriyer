@@ -21,8 +21,8 @@ const shahriyer = {
 
 ## ⌨️Contributions
 
-![GitHub Snake Light](https://github.com/vcshahriyer/vcshahriyer/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/vcshahriyer/vcshahriyer/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/vcshahriyer/vcshahriyer/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/vcshahriyer/vcshahriyer/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## 📊GitHub Stats :
 
